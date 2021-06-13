@@ -30,3 +30,4 @@ var/
 thumbs.db
 __pycache__
 .mypy_cache
+root_key
